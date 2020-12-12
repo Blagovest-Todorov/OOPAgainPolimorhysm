@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\OOPLections\OOPLections\bin\Debug\netcoreapp3.1\OOPLections.exe
+C:\Users\Bla\source\repos\OOPLections\OOPLections\bin\Debug\netcoreapp3.1\OOPLections.deps.json
+C:\Users\Bla\source\repos\OOPLections\OOPLections\bin\Debug\netcoreapp3.1\OOPLections.runtimeconfig.json
+C:\Users\Bla\source\repos\OOPLections\OOPLections\bin\Debug\netcoreapp3.1\OOPLections.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\OOPLections\OOPLections\bin\Debug\netcoreapp3.1\OOPLections.dll
+C:\Users\Bla\source\repos\OOPLections\OOPLections\bin\Debug\netcoreapp3.1\OOPLections.pdb
+C:\Users\Bla\source\repos\OOPLections\OOPLections\obj\Debug\netcoreapp3.1\OOPLections.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\OOPLections\OOPLections\obj\Debug\netcoreapp3.1\OOPLections.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\OOPLections\OOPLections\obj\Debug\netcoreapp3.1\OOPLections.AssemblyInfo.cs
+C:\Users\Bla\source\repos\OOPLections\OOPLections\obj\Debug\netcoreapp3.1\OOPLections.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\OOPLections\OOPLections\obj\Debug\netcoreapp3.1\OOPLections.dll
+C:\Users\Bla\source\repos\OOPLections\OOPLections\obj\Debug\netcoreapp3.1\OOPLections.pdb
+C:\Users\Bla\source\repos\OOPLections\OOPLections\obj\Debug\netcoreapp3.1\OOPLections.genruntimeconfig.cache
